@@ -1,0 +1,25 @@
+EARLY BLOOD CANCER DETECTION
+Project Overview: Early Blood Cancer Detection Using AI (MATEO TL microscope)
+DOMAIN :
+..Healthcare & MedicaL Diagnostics
+	•Artificial Intelligence & Machine Learning
+
+Technologies Used:1.Machine Learning & AI Frameworks:	
+•TensorFlow, Convolutional Neural Networks (CNNs) for image data (if applicable
+2.Big Data Platforms (Optional):
+•kaggle data set 
+3.Data Visualization:
+	•Tableau, Power BI, or Plotly for interactive data visualizations	•SHAP or LIME for model interpretable 
+
+Problems :
+Imbalanced Data:
+Blood cancer cases, especially early-stage ones, are rare compared to the general population. This can result in imbalanced datasets, leading to models that are biased towards predicting the absence of cancer.
+Solution:
+Cross-validation and Generalization:
+Employ cross-validation strategies and test the model on multiple independent datasets. Use techniques like domain adaptation or domain generalization to improve model performance across different populations.
+
+DOMAIN ADAPTATION,GENERALIZATION
+Domain adaptation is the technique of transferring a machine learning model trained on data from one domain to effectively work on data from a different but related domain.
+Domain generalization is a technique where a machine learning model is trained to perform well across multiple, diverse domains, aiming to generalize its performance to new, unseen domains.
+
+
